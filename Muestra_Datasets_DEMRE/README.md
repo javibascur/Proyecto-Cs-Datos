@@ -1,5 +1,3 @@
 # Muestra de Datasets 📂
 
-### Aquí se encuentra una muestra sobre los distintos datasets que pensamos utilizar
-
-### Cada contiene los datos de todos lo años referentes a su tema, filtrados para mostrar las columnas que encontramos de mayor relevancia para nuestra investigacion
+En esta carpeta se encuentran las muestras de los distintos datasets que utilizaremos en nuestro análisis. Estos han sido filtrados para mostrar únicamente las columnas de mayor relevancia, separados por sus respectivos años y organizados por temas.
