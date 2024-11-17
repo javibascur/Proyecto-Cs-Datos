@@ -1,12 +1,11 @@
 # Archivos DEMRE 📁
 
-### En esta carpeta se encuentran guardados todos los archivos de los que se sacaron los datos provenientes del DEMRE
+En esta carpeta se encuentran guardados todos los archivos de los que se extrajeron los datos provenientes del DEMRE. Estos están distribuidos según el tema del dataset, así como por su respectivo año, de los cuales se eligieron los años 2019 a 2023.
 
-### Estos estas distribuidas segun el tema del dataset, asi como por su respectivo año
+Cada archivo es un .rar que contiene un archivo .csv con todos los datos correspondientes y un archivo Excel con la explicación sobre cada columna del dataset.
 
-### Cada archivo es un .rar en el cual se encuentra un .csv con todos lo datos correspondientes y un excel con la explicacion sobre cada columna del dataset
+Esto se hace debido a las limitaciones en cuanto al peso de los archivos que se pueden subir a GitHub.
 
-#### *(esto por temas de carga máxima en cuanto al peso de los archivos que se pueden subir a Github)*
-
+Sitio oficial del DEMRE: [Portal de bases de datos del DEMRE](https://demre.cl/portales/portal-bases-datos)
 
 
